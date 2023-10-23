@@ -146,9 +146,9 @@ document.write(("<hr>"))
 document.write("<h2>Work 9 Even Number or an Odd Number: (Ans. Alert) : </h2>")
 var num = +prompt("   Enter the number ");
 if (num % 2 === 0) {
-      alert(" <h1> <br>   Even  number </h1>  ")
+      alert("Even  Number  ")
 } else {
-      alert(" <h1>  <br>   Odd number </h1>  ")
+      alert("  Odd Number   ")
 }
 
 document.write(("<hr>"))
